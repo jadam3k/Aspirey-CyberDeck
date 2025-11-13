@@ -32,8 +32,9 @@ So I decided to keep the motherboard, RAM, and SSD and screen , and build everyt
 
 ## Case
 
-<img width="813" height="602" alt="image" src="https://github.com/user-attachments/assets/fda43c83-64b5-43be-bf5a-277c1269d35c" />
-<img width="685" height="411" alt="image" src="https://github.com/user-attachments/assets/d1913a9c-ed45-48c1-b61e-17e6f0fd2c02" />
+<img width="998" height="496" alt="image" src="https://github.com/user-attachments/assets/4ef3d1bc-7fb5-496d-90ab-564366208405" />
+<img width="774" height="576" alt="image-1" src="https://github.com/user-attachments/assets/6cff8020-38a4-4f2a-9afa-17fe0d43be58" />
+
 
 
 ---
